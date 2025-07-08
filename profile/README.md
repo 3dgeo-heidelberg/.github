@@ -40,12 +40,12 @@ Here, we host and maintain our open-source software, public documentations and e
   <tr>
     <td><a href="https://3dgeo-heidelberg.github.io/AImon/"><img src="https://github.com/user-attachments/assets/c292e5fb-b33e-4b38-8ee4-544b67d9e41d" alt="AIMon Logo" width=150></a></td>
     <td> Documentation of 3DGeo outcomes in the project <a href="https://www.uni-heidelberg.de/aimon">AIMon5.0</a>, incl. example notebooks </td>
-    <td> https://github.com/3dgeo-heidelberg/aimon </td>
+    <td> <a href="https://github.com/3dgeo-heidelberg/aimon">3dgeo-heidelberg/aimon</a> </td>
   </tr>
   <tr>
     <td><a href="https://3dgeo-heidelberg.github.io/vls-4d/"><img src="https://github.com/user-attachments/assets/cd215869-1097-460c-be69-23e25a6cca34" alt="VLS-4D teaser" width=150></a></td>
     <td> Showcase of the concept of virtual laser scanning of dynamic scenes (VLS-4D), incl. example notebooks </td>
-    <td> https://github.com/3dgeo-heidelberg/vls-4d </td>
+    <td> <a href="https://github.com/3dgeo-heidelberg/vls-4d">3dgeo-heidelberg/vls-4d</a> </td>
   </tr>
 </table>
 
@@ -60,7 +60,7 @@ Here, we host and maintain our open-source software, public documentations and e
   <tr>
     <td><a href="https://3dgeo-heidelberg.github.io/etrainee/"><img src="https://github.com/user-attachments/assets/45e4f78f-bea4-4456-a1be-1394f5405f10" alt="ETRAINEE Logo" width=150></a></td>
     <td> Open e-learning course on time series analysis in remote sensing for understanding human-environment interactions </td>
-    <td> https://github.com/3dgeo-heidelberg/etrainee </td>
+    <td> <a href="https://github.com/3dgeo-heidelberg/etrainee">3dgeo-heidelberg/etrainee</a> </td>
   </tr>
 </table>
 
