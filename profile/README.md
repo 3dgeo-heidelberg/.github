@@ -12,7 +12,7 @@ Here, we host and maintain our open-source software, public documentations and e
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/3dgeo-heidelberg/helios"><img src="https://github.com/user-attachments/assets/57a21727-4ff1-4b4e-be0b-765901961f62" alt="HELIOS Logo" width=150></a></td>
+    <td><a href="https://github.com/3dgeo-heidelberg/helios"><img src="https://github.com/user-attachments/assets/c2b7da5f-6224-4b1a-88e6-c8d26eb614a2" alt="HELIOS Logo" width=150></a></td>
     <td>Python library / command line tool for high-fidelity LiDAR Simulation (Virtual Laser Scanning) </td>
   </tr>
   <tr>
@@ -38,9 +38,14 @@ Here, we host and maintain our open-source software, public documentations and e
     <th>Source code</th>
   </tr>
   <tr>
-    <td><a href="[https://3dgeo-heidelberg.github.io/AImon/"><img src="https://github.com/user-attachments/assets/c292e5fb-b33e-4b38-8ee4-544b67d9e41d" alt="AIMon Logo" width=150></a></td>
-    <td> Documentation of 3DGeo outcomes in the project <a href="https://www.uni-heidelberg.de/aimon">AIMon5.0</a> </td>
+    <td><a href="https://3dgeo-heidelberg.github.io/AImon/"><img src="https://github.com/user-attachments/assets/c292e5fb-b33e-4b38-8ee4-544b67d9e41d" alt="AIMon Logo" width=150></a></td>
+    <td> Documentation of 3DGeo outcomes in the project <a href="https://www.uni-heidelberg.de/aimon">AIMon5.0</a>, incl. example notebooks </td>
     <td> https://github.com/3dgeo-heidelberg/aimon </td>
+  </tr>
+  <tr>
+    <td><a href="https://3dgeo-heidelberg.github.io/vls-4d/"><img src="https://github.com/user-attachments/assets/cd215869-1097-460c-be69-23e25a6cca34" alt="VLS-4D teaser" width=150></a></td>
+    <td> Showcase of the concept of virtual laser scanning of dynamic scenes (VLS-4D), incl. example notebooks </td>
+    <td> https://github.com/3dgeo-heidelberg/vls-4d </td>
   </tr>
 </table>
 
@@ -50,10 +55,12 @@ Here, we host and maintain our open-source software, public documentations and e
   <tr>
     <th>Course</th>
     <th>Description</th>
+    <th>Source code</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/3dgeo-heidelberg/etrainee"><img src="https://github.com/user-attachments/assets/45e4f78f-bea4-4456-a1be-1394f5405f10" alt="ETRAINEE Logo" width=100></a></td>
+    <td><a href="https://3dgeo-heidelberg.github.io/etrainee/"><img src="https://github.com/user-attachments/assets/45e4f78f-bea4-4456-a1be-1394f5405f10" alt="ETRAINEE Logo" width=150></a></td>
     <td> Open e-learning course on time series analysis in remote sensing for understanding human-environment interactions </td>
+    <td> https://github.com/3dgeo-heidelberg/etrainee </td>
   </tr>
 </table>
 
