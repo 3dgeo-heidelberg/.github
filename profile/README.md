@@ -6,17 +6,18 @@ Here, we host and maintain our open-source software and public documentations.
 
 ## Software
 
-|  Software                                                                                                                                                | Description |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| <a href="https://github.com/3dgeo-heidelberg/helios"><img src="https://github.com/user-attachments/assets/57a21727-4ff1-4b4e-be0b-765901961f62" alt="HELIOS Logo" width=150></a>
- |  Python library / command line tool for high-fidelity LiDAR Simulation (Virtual Laser Scanning)  |
-| <a href="https://github.com/3dgeo-heidelberg/py4dgeo"><img src="https://github.com/user-attachments/assets/a14137f1-43bf-4d4d-b16b-db3a16bad1a5" alt="py4dgeo Logo" width=150></a>
- |  Python library for change analysis in multitemporal and 4D point clouds  |
-
-
-### HELIOS++
-
-### py4dgeo
+<table>
+  <tr>
+    <th>Software</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3dgeo-heidelberg/helios"><img src="https://github.com/user-attachments/assets/57a21727-4ff1-4b4e-be0b-765901961f62" alt="HELIOS Logo" width=150></a></td>
+    <td>Python library / command line tool for high-fidelity LiDAR Simulation (Virtual Laser Scanning) </td>
+    <td><a href="https://github.com/3dgeo-heidelberg/py4dgeo"><img src="https://github.com/user-attachments/assets/a14137f1-43bf-4d4d-b16b-db3a16bad1a5" alt="py4dgeo Logo" width=150></a></td>
+    <td>Python library for change analysis in multitemporal and 4D point clouds</td>
+  </tr>
+</table>
 
 ### ETRAINEE
 
