@@ -6,10 +6,10 @@ Here, we host and maintain our open-source software, public documentations and e
 
 ## Software
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <th>Software</th>
-    <th>Description</th>
+    <th style="width:40%;">Software</th>
+    <th style="width:60%;">Description</th>
   </tr>
   <tr>
     <td><a href="https://github.com/3dgeo-heidelberg/helios"><img src="https://github.com/user-attachments/assets/c2b7da5f-6224-4b1a-88e6-c8d26eb614a2" alt="HELIOS Logo" width=150></a></td>
@@ -31,11 +31,11 @@ Here, we host and maintain our open-source software, public documentations and e
 
 ## Documentation
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Source code</th>
+    <th style="width:20%;">Project</th>
+    <th style="width:60%;">Description</th>
+    <th style="width:20%;">Source code</th>
   </tr>
   <tr>
     <td><a href="https://3dgeo-heidelberg.github.io/AImon/"><img src="https://github.com/user-attachments/assets/c292e5fb-b33e-4b38-8ee4-544b67d9e41d" alt="AIMon Logo" width=150></a></td>
@@ -51,11 +51,11 @@ Here, we host and maintain our open-source software, public documentations and e
 
 ## Teaching
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <th>Course</th>
-    <th>Description</th>
-    <th>Source code</th>
+    <th style="width:20%;">Course</th>
+    <th style="width:60%;">Description</th>
+    <th style="width:20%;">Source code</th>
   </tr>
   <tr>
     <td><a href="https://3dgeo-heidelberg.github.io/etrainee/"><img src="https://github.com/user-attachments/assets/45e4f78f-bea4-4456-a1be-1394f5405f10" alt="ETRAINEE Logo" width=150></a></td>
