@@ -1,8 +1,8 @@
-<img src="https://github.com/user-attachments/assets/dd4c5c5d-1c2a-4539-aa19-19880cdb0538" alt="3DGeo Logo" style="float:right;width:300px">
+<center><img src="https://github.com/user-attachments/assets/dd4c5c5d-1c2a-4539-aa19-19880cdb0538" alt="3DGeo Logo" width=300></center>
 
 The <a href="https://www.uni-heidelberg.de/3dgeo">3DGeo Research Group</a> at Heidelberg University (Germany) investigates and develops computational methods for the geographic analysis of 3D/4D point clouds and designs participatory STEM education concepts.
 
-Here, we host and maintain our open-source software and public documentations.
+Here, we host and maintain our open-source software, public documentations and e-learning material.
 
 ## Software
 
@@ -29,10 +29,31 @@ Here, we host and maintain our open-source software and public documentations.
   </tr>
 </table>
 
-## Teaching
-
 ## Documentation
 
-### AIMon5.0
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Source code</th>
+  </tr>
+  <tr>
+    <td><a href="[https://3dgeo-heidelberg.github.io/AImon/"><img src="https://github.com/user-attachments/assets/c292e5fb-b33e-4b38-8ee4-544b67d9e41d" alt="AIMon Logo" width=150></a></td>
+    <td> Documentation of 3DGeo outcomes in the project <a href="https://www.uni-heidelberg.de/aimon">AIMon5.0</a> </td>
+    <td> https://github.com/3dgeo-heidelberg/aimon </td>
+  </tr>
+</table>
 
-### VLS-4D
+## Teaching
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3dgeo-heidelberg/etrainee"><img src="https://github.com/user-attachments/assets/45e4f78f-bea4-4456-a1be-1394f5405f10" alt="ETRAINEE Logo" width=100></a></td>
+    <td> Open e-learning course on time series analysis in remote sensing for understanding human-environment interactions </td>
+  </tr>
+</table>
+
