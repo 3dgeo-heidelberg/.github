@@ -25,7 +25,7 @@ Here, we host and maintain our open-source software, public documentations and e
   </tr>
   <tr>
     <td><a href="https://github.com/3dgeo-heidelberg/pytreedb"><img src="https://github.com/user-attachments/assets/869b31a9-6b22-489a-b29c-6a5f07394164" alt="pytreedb Logo" width=150></a></td>
-    <td>Python library for the storage and sharing of single tree-based point clouds (incl. REST API and web frontend) </td>
+    <td>Python library for the storage and sharing of single tree-based point clouds (incl. REST API and web frontend), see our web frontend instance https://pytreedb.geog.uni-heidelberg.de/ </td>
   </tr>
 </table>
 
